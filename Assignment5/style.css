@@ -1,0 +1,50 @@
+
+span{
+ font-size: xx-large;
+ border: 1px solid black;
+ padding: 15px;
+ margin: 1% 1%;  
+ margin-right: 25px;    
+}
+body{
+    height : 100%;
+}
+
+
+button{
+    border: none;
+
+}
+
+.Letters{
+ height: auto;
+ display:inline-flex;
+margin-left: 10%;
+}
+
+.displayWord{
+ margin-right:5px;
+}
+
+.Gallows{
+    height: auto;
+ justify-self: left;
+
+ 
+}
+
+.usedLetters{
+display: flex;
+text-align: initial;
+margin-left :25%;
+ font-size: xx-large;
+}
+
+ #Letters {
+ margin-bottom: 5%;
+ }
+.Input
+{
+     height: auto;
+    justify-self: left;
+}
